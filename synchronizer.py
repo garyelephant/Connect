@@ -1,3 +1,6 @@
+#coding:utf-8
+import logging
+
 class Synchronizer(object):
 	"""docstring for Synchronizer"""
 	def __init__(self, arg):

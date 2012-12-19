@@ -1,3 +1,6 @@
+#coding:utf-8
+import logging
+
 class Config(object):
 	"""docstring for Config"""
 	def __init__(self):

@@ -1,7 +1,8 @@
 #coding:utf-8
 import logging
 def main():
-	logging.basicConfig(filename='log', level = logging.INFO)
+	logFormat = '%(levelname)s[%(asctime)s@%(funcName)s#%(lineno)d]:%(message)s'
+	logging.basicConfig(filename = 'log', format = logFormat, level = logging.INFO)
 	logging.info('Connect started')
 
 

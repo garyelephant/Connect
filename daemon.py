@@ -1,3 +1,6 @@
+#coding:utf-8
+import logging
+
 class Daemon(object):
 	"""docstring for Daemon"""
 	def __init__(self, arg):
