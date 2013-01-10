@@ -8,3 +8,24 @@ INFO[2012-12-19 22:10:42,310, Func:main, LINE:5]:Connect started
 INFO[2012-12-19 22:11:59,652. main. 5]:Connect started
 INFO[2012-12-19 22:12:45,224@main#5]:Connect started
 INFO[2012-12-19 22:14:11,140@main#6]:Connect started
+INFO[2012-12-20 09:26:46,932@main#9]:logging initialized
+INFO[2012-12-20 09:27:41,181@main#9]:logging initialized
+INFO[2012-12-20 09:27:41,181@main#15]:Connect services started
+INFO[2012-12-20 09:27:53,012@main#9]:logging initialized
+INFO[2012-12-20 09:27:53,013@main#15]:Connect services started
+INFO[2012-12-20 09:28:27,702@main#9]:logging initialized
+INFO[2012-12-20 09:28:27,703@main#15]:Connect services started
+INFO[2012-12-20 09:28:49,060@main#9]:logging initialized
+INFO[2012-12-20 09:28:49,061@main#15]:Connect services started
+INFO[2012-12-20 09:28:52,629@main#9]:logging initialized
+INFO[2012-12-20 09:28:52,630@main#15]:Connect services started
+INFO[2012-12-20 09:28:53,607@main#9]:logging initialized
+INFO[2012-12-20 09:28:53,608@main#15]:Connect services started
+INFO[2012-12-20 09:28:54,242@main#9]:logging initialized
+INFO[2012-12-20 09:28:54,243@main#15]:Connect services started
+INFO[2012-12-20 09:28:54,777@main#9]:logging initialized
+INFO[2012-12-20 09:28:54,778@main#15]:Connect services started
+INFO[2012-12-20 09:28:55,300@main#9]:logging initialized
+INFO[2012-12-20 09:28:55,300@main#15]:Connect services started
+INFO[2012-12-20 09:28:55,948@main#9]:logging initialized
+INFO[2012-12-20 09:28:55,948@main#15]:Connect services started
